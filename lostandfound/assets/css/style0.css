@@ -1,0 +1,29 @@
+
+
+
+
+.float_r{
+	float: right;
+}
+
+
+.text_wrap{
+	white-space: pre-wrap;
+	word-wrap: break-word;
+}
+
+.side_nav_width{
+	width: 240px;
+}
+
+.bottom0{
+	margin-bottom: 0px;
+}
+
+.text_center{
+	text-align: center;
+}
+
+.top_5px{
+	margin-top: 5px;
+}
